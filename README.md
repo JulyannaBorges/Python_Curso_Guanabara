@@ -2,6 +2,8 @@
 
 <p align="center">
   🚀 Minha jornada inicial em programação com foco em lógica e prática
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/JulyannaBorges/Python_Curso_Guanabara/main/Image_fx%20(1).png" width="500">
 </p>
 
 ---
