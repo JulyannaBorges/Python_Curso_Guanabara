@@ -75,13 +75,3 @@ Mas, com prática, consegui evoluir e aplicar esses conceitos nos projetos.
 👉 Ver os projetos funcionando foi o momento em que tudo fez sentido.
 
 ---
-
-## 🎯 Objetivo
-
-Continuar evoluindo em programação e construir projetos cada vez mais completos, unindo lógica com design (UI/UX).
-
----
-
-## 🛠️ Tecnologias
-
-- Python
